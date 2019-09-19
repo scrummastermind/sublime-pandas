@@ -1,0 +1,21 @@
+{
+   "schema_version": "3.0.0",
+   "packages": [],
+   "dependencies": [
+      {
+         "name": "pandas",
+         "load_order": "100",
+         "description": "Python pandas v0.17. for Sublime Text 3 - https://pandas.pydata.org/pandas-docs/version/0.17/",
+         "author": "Ammar Ali",
+         "issues": "https://github.com/scrummastermind/sublime-pandas/issues",
+         "releases": [
+            {
+               "base": "https://github.com/scrummastermind/sublime-pandas",
+               "tags": true,
+               "sublime_text": ">=3000",
+               "platforms": ["osx-x64"]
+            }
+         ]
+      }
+   ]
+}
